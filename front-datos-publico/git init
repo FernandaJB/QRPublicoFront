@@ -1,0 +1,203 @@
+[33mcommit 2dc6068c05067dc58bd085fbbcdd33c8b93fbdd5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 22:56:43 2024 -0500
+
+    Revert "nginx.conf"
+    
+    This reverts commit 1c20b21a6f03a245e7c14d23279b9b405970e24c.
+
+[33mcommit 69a9e980017c355e79c33a309b9eac254cfa8552[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 22:56:33 2024 -0500
+
+    Revert "update nginx.conf"
+    
+    This reverts commit f5205f2b28067fda1ea2dce30f3f0cb444dd9559.
+
+[33mcommit 52dde302f965d6c460a33b2ea31e7540ba5d2a88[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 22:56:21 2024 -0500
+
+    Revert "ssl v1"
+    
+    This reverts commit 45887a667516e8ed2d6fe4c79de3f8725909770d.
+
+[33mcommit 1fae4bfb47dc3ea5f9d1c4b2dd09c2f941c4041b[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 22:56:11 2024 -0500
+
+    Revert "Update nginx.conf"
+    
+    This reverts commit 0429453216b8e99d9b10cec8132aeeb1587a0227.
+
+[33mcommit 28b22e2d0b64a846708512cde5ae7a273fc82bf2[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 22:55:56 2024 -0500
+
+    Revert "Update Dockerfile"
+    
+    This reverts commit 2230929b67568bfd5c48ad5af9fa838f4f316170.
+
+[33mcommit 2230929b67568bfd5c48ad5af9fa838f4f316170[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 22:55:45 2024 -0500
+
+    Update Dockerfile
+
+[33mcommit d38d1e170b046976b95461f533dfd823404b1a74[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 22:53:02 2024 -0500
+
+    Revert "Update nginx.conf"
+    
+    This reverts commit 952490d27ea5fda914e52a148be17465c946583e.
+
+[33mcommit 952490d27ea5fda914e52a148be17465c946583e[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 22:43:09 2024 -0500
+
+    Update nginx.conf
+
+[33mcommit 0429453216b8e99d9b10cec8132aeeb1587a0227[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 18:14:30 2024 -0500
+
+    Update nginx.conf
+
+[33mcommit 45887a667516e8ed2d6fe4c79de3f8725909770d[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 17:15:31 2024 -0500
+
+    ssl v1
+
+[33mcommit f5205f2b28067fda1ea2dce30f3f0cb444dd9559[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 16:56:22 2024 -0500
+
+    update nginx.conf
+
+[33mcommit 1c20b21a6f03a245e7c14d23279b9b405970e24c[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Sat Jan 13 15:51:48 2024 -0500
+
+    nginx.conf
+
+[33mcommit 8aea2e0235f314b07f8d9df986cd2dc637b755dc[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Mon Jan 8 16:53:06 2024 -0500
+
+    Implementación Certificado SSL
+
+[33mcommit 126836d24e4dffb52b18a7b836a8defdebfa9157[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Mon Jan 8 16:16:15 2024 -0500
+
+    Revert "Certificado SSL"
+    
+    This reverts commit 4a5072a92dc5c575e6fe0698d10ab6aab0faca7e.
+
+[33mcommit 4a5072a92dc5c575e6fe0698d10ab6aab0faca7e[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Mon Jan 8 15:30:59 2024 -0500
+
+    Certificado SSL
+
+[33mcommit f1313733db3965128d8730a3e612307966bb4403[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Fri Jan 5 14:19:55 2024 -0500
+
+    Titulo pagina web y Logo Manamer
+
+[33mcommit ffb50fb7009fe59d389e997027a604b44fdec677[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Thu Jan 4 21:40:35 2024 -0500
+
+    Redirrecion a  servidor 110
+
+[33mcommit 4995de94f82b5e7b556d9451182611325e34dc63[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Wed Jan 3 15:58:08 2024 -0500
+
+    commit
+    
+    Actualización de Provincias y Ciudades
+
+[33mcommit 6f4facb41fd20099ec548523cd4f39ce3f59c16f[m
+Author: st4lynf3rn4nd0 <andrango_stalyn@hotmail.com>
+Date:   Wed Dec 27 22:44:00 2023 -0500
+
+    campo error y respuesta peticion
+    
+    se comento el campo U_DV_PROTEC_DAT y se arrgelo el manejo de repsuesta de la peticion patch
+
+[33mcommit d649eeab9fcf23437bd8484bf7f23956f303bc6e[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Wed Oct 4 21:41:53 2023 -0500
+
+    Update package.json
+
+[33mcommit 16a6f98dae11e29ab9be88803151d6caab8b9820[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Wed Oct 4 21:12:24 2023 -0500
+
+    Update .env
+
+[33mcommit 7dce68998dd18c787d4d5388f85cee7a11d5e20f[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Wed Oct 4 21:12:07 2023 -0500
+
+    Update Dockerfile
+
+[33mcommit 71e1a78a20b892df46edd6fa1793d8fa89504a43[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Wed Oct 4 20:55:44 2023 -0500
+
+    Update Formulario.jsx
+
+[33mcommit fc75cf44b31dc68330ec673ca44d87ee92805b58[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Wed Oct 4 20:20:35 2023 -0500
+
+    docker
+
+[33mcommit e0f996dcfdbde6e0b45045025d4824716c0993c3[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Wed Oct 4 18:33:08 2023 -0500
+
+    validaciones
+
+[33mcommit 1d724fa741862d2c87a9a7f6b40907621495e676[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Wed Oct 4 17:57:35 2023 -0500
+
+    Update Formulario.jsx
+
+[33mcommit 0aea64c5d7bb41dfe08e04765caa453348562ead[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Wed Oct 4 17:56:50 2023 -0500
+
+    Mejoras actualizacion de datos
+
+[33mcommit 9e8bcfa6559ebe5601faad070c3adf27299aee25[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Tue Oct 3 20:46:50 2023 -0500
+
+    Update Formulario.jsx
+
+[33mcommit 9b870ab2a798c9a77b0f55eff1925e37b27b04f1[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Sat Sep 30 23:58:10 2023 -0500
+
+    Update README.md
+
+[33mcommit 78b42943eeb6902b47df5db85922392f6c8f1c2e[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Sat Sep 30 23:57:44 2023 -0500
+
+    first commit
+
+[33mcommit 271f49bb703c4109e90ba9e8016c293381c70ef3[m
+Author: sandrangomanamer <122115811+sandrangomanamer@users.noreply.github.com>
+Date:   Sat Sep 30 18:37:35 2023 -0500
+
+    Initialize project using Create React App

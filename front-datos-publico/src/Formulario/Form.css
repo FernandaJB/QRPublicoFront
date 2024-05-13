@@ -1,0 +1,42 @@
+/* Estilos para el contenedor principal */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centrar horizontalmente */
+  text-align: center; /* Centrar el texto dentro de los elementos */
+}
+
+/* Estilos para cada campo */
+.p-field {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centrar horizontalmente */
+  margin-bottom: 16px; /* Espacio entre los campos */
+}
+
+/* Estilos para los títulos */
+.p-field label {
+  font-weight: bold; /* Hace que los títulos sean más visibles */
+}
+
+/* Estilos para los errores */
+.error-message {
+  color: red;
+}
+
+/* Estilos para los checkboxes y enlaces */
+.checkbox-label {
+  display: flex;
+  align-items: center;
+}
+
+.p-field input {
+  width: 300px; /* Puedes ajustar el ancho según tus necesidades */
+}
+
+.checkbox-row {
+  display: flex;
+  justify-content: flex-start; /* Alinea los checkboxes a la derecha */
+  align-items: center; /* Centra verticalmente los elementos en la fila */
+  margin-bottom: 10px; /* Espacio entre las filas */
+}
